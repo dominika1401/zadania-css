@@ -1,0 +1,33 @@
+body{
+    background-color: yellow;
+}
+h1{
+    background-color: blue;
+}
+.pierwsza{
+    background-color: beige;
+}
+h2{
+    background-color: aqua;
+}
+.druga{
+    background-color: palevioletred;
+}
+ol{
+    background-color: firebrick;
+}
+.jeden{
+    color: blue;
+}
+.dwa {
+    color: blanchedalmond;
+}
+.trzy {
+    color: fuchsia;
+}
+.cztery{
+    color: burlywood;
+}
+.piec{
+    color: navy;
+}
